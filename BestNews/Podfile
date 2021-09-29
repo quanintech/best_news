@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+use_frameworks!
+
+project '/Users/oujing/Library/Autosave Information/BestNews/BestNews/BestNews.xcodeproj' 
+
+workspace '/Users/oujing/Library/Autosave Information/BestNews/BestNews/BestNews.xcworkspace'
+target 'BestNews' do
+
+pod 'SwiftHTTP', '~> 3.0.1'
+
+end
